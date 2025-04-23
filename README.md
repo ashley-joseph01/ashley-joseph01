@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashley-joseph01
-- 👀 I’m interested in ... graphic design & coding
-- 🌱 I’m currently learning ... everything web development
-- 💞️ My home page ... 
-- 📫 How to reach me ... ashley.joseph01@proton.me
+- 👀 I’m interested in: graphic design & coding
+- 🌱 I’m currently learning: everything web development
+- 💞️ My home page: 
+- 📫 How to reach me: ashley.joseph01@proton.me
 - 😄 Pronouns: she/her, they/them
 
 <!---
