@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashley-joseph01
 - 😄 Pronouns: she/her, they/them
-- 💞️ My home page: 
+- 💞️ My home page: https://ashley-joseph01.github.io/website/
 - 👀 I’m interested in: graphic design & coding
 - 🌱 I’m currently learning: everything web development
 - 📫 How to reach me: ashley.joseph01@proton.me
