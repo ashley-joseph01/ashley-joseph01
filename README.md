@@ -3,7 +3,7 @@
 - 💞️ My home page: https://ashley-joseph01.github.io/website/
 - 👀 I’m interested in: graphic design & coding
 - 🌱 I’m currently learning: everything web development
-- 📫 How to reach me: ashley.joseph01@proton.me
+- 📫 How to reach me: ashleyjoseph01@proton.me
 
 
 <!---
